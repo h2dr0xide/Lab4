@@ -22,7 +22,7 @@
 8. **Конец**
 
 ### Блок-схема
-![Блок-схема алгоритма](lab_4_schema (1).png) 
+![Блок-схема алгоритма](lab_4_schema(1).png) 
 
 (https://drive.google.com/file/d/1zy24SgGZFjHk37_xeBHUJY9Syussw3wK/view?usp=drive_link)
 
